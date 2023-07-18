@@ -6,7 +6,7 @@
    git clone https://github.com/your-username/social-network.git
 
 2. Перейдите в директорию проекта
-cd social-network
+cd socialnetwork
 
 3. Создайте и активируйте виртуальное окружение
 python -m venv env
